@@ -1,0 +1,185 @@
+aside img {
+            float: left;
+            width:100%;
+  
+        }
+.film_pic:hover {
+            opacity: .5;
+            -moz-opacity: .5;
+            filter: alpha(opacity=50);
+        }
+
+article img {
+            float: left;
+            width:100%;
+        }
+p {
+    line-height: 30px;
+}
+body{
+  font-family: 'PMingLiU';
+  margin-right: 10%;
+   margin-left: 10%;
+  
+}
+header {
+        width: 100%;
+        float: left;
+        }
+nav {
+    text-align: right;
+    margin-right: 5px;
+}
+
+#address{
+    text-align: center;
+    line-height: 30px;
+}
+
+aside {
+    float: right;
+    width: 49%;
+  
+  }
+#first {
+    float: left;
+    width:49%;
+    
+  }
+
+/* unvisited link */
+a:link {
+    color: #88B14B;
+}
+
+/* visited link */
+a:visited {
+    color: #EF562D;
+}
+
+/* mouse over link */
+a:hover {
+    color: #6F6248;
+}
+
+
+
+a{
+    text-decoration: none;
+}
+        
+
+
+#name1,#name2,#name3,#name4,#name5{
+            font-weight: bold;
+            font-size: 18px;
+            line-height: 35px;
+
+}
+.time {
+            font-weight: bold;
+            font-size: 35px;
+            color: #5587A2;
+        }
+
+.little{
+    margin-top:30px;
+    margin-left:5px;
+}
+
+
+#film1,#film3,#film5 {
+  float:left;
+  width:47%;
+  margin:5px;
+  background-color: #F1EDEA;
+}
+
+#pic1,#pic2,#pic3,#pic4{
+    float: left;
+  width: 27%;
+  margin:5px;
+}
+
+#film2,#film4 {
+  float:right;
+  width:47%;
+  margin:5px;
+  background-color: #F1EDEA;
+}
+
+#all{
+    float: left;
+     width:100%;
+}
+
+#second {
+    float: left;
+     width:100%;
+     background-color: #EEEEEE;
+}
+
+#chinese{
+    float: left;
+     width:49%;
+     
+
+}
+#english{
+    float: right;
+     width:49%;
+     
+
+}
+
+
+footer{
+    float: left;
+     width:100%;
+
+}
+#footer1{
+    float: left;
+     width:50%;
+     line-height: 20px;
+}
+#footer2{
+    float: right;
+     width:50%;
+     line-height: 30px;
+
+}
+
+
+
+
+
+#school {
+  float: left;
+  width: 20%;
+}
+
+#up{
+    text-align: right;
+    margin-right: 5px;
+}
+
+#line1 {
+            border-top: 8px solid #A2B14B;
+        }
+#line2 {
+            border-top: 2px solid #A2B14B;
+        }
+#line3 {
+            border-top: 2px dotted #bbb;
+        }
+#line4 {
+            border-top: 2px dotted #bbb;
+        }
+#line5 {
+            border-top: 2px dashed #bbb;
+        }
+#line6 {
+            border-top: 8px solid #999999;
+        }
+
